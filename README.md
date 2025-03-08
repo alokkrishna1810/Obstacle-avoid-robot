@@ -48,6 +48,4 @@ This project is an obstacle avoidance robot using an Arduino. The robot uses an 
 - The `ultrasonic()` function calculates the distance to an obstacle using the ultrasonic sensor.
 - The `start()` function initializes the servo motor position.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## Thank you
